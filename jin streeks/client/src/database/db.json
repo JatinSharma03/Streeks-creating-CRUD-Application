@@ -1,0 +1,54 @@
+{
+  "streeks": [
+    {
+      "name": "GYM",
+      "time": 30,
+      "current": 30,
+      "done": false,
+      "foreverDone": true,
+      "streekDay": "1702022",
+      "streekNextDay": "1802022",
+      "id": 6
+    },
+    {
+      "name": "react js",
+      "time": 40,
+      "current": 40,
+      "done": false,
+      "foreverDone": true,
+      "streekDay": "1702022",
+      "streekNextDay": "1802022",
+      "id": 7
+    },
+    {
+      "name": "exersise",
+      "time": 20,
+      "current": 1,
+      "done": false,
+      "foreverDone": false,
+      "streekDay": "1802022",
+      "streekNextDay": "1902022",
+      "id": 8
+    },
+    {
+      "name": "coding",
+      "time": 40,
+      "current": 1,
+      "done": false,
+      "foreverDone": false,
+      "streekDay": "1802022",
+      "streekNextDay": "1902022",
+      "id": 9
+    },
+    {
+      "name": "react",
+      "time": 10,
+      "current": 1,
+      "done": false,
+      "foreverDone": false,
+      "streekDay": "1802022",
+      "streekNextDay": "1902022",
+      "id": 10
+    }
+  ]
+}
